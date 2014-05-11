@@ -52,4 +52,4 @@ end
 
 gem 'rails_12factor', group: :production
 gem 'simple_form', :tag => 'v3.1.0.rc1'
-gem 'bootstrap-sass', '~> 3.1.1'
+gem 'bootstrap-sass', :tag => 'v3.1.1+2'
